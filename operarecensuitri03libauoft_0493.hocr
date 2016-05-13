@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operarecensuitri03libauoft_0493.png"; bbox 0 0 1992 3094; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 137 1192 1833 1404">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 137 1192 1833 1404">
+     <span class='ocr_line' id='line_1_1' title="bbox 247 1192 1831 1256; baseline -0.001 -14"><span class='ocrx_word' id='word_1_1' title='bbox 247 1193 358 1242; x_wconf 82' lang='lat' dir='ltr'><strong>Iam</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 407 1195 679 1256; x_wconf 74' lang='lat' dir='ltr'><strong>sequantur</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 731 1194 980 1242; x_wconf 73' lang='lat' dir='ltr'><strong>orationes</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1034 1192 1162 1241; x_wconf 84' lang='lat' dir='ltr'><strong>duae</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1215 1193 1394 1255; x_wconf 84' lang='lat' dir='ltr'><strong>quibus</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1450 1208 1563 1241; x_wconf 85' lang='lat' dir='ltr'><strong>cum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1617 1194 1831 1242; x_wconf 75' lang='lat' dir='ltr'><strong>senatu</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 137 1266 1833 1330; baseline -0.001 -14"><span class='ocrx_word' id='word_1_8' title='bbox 137 1266 515 1316; x_wconf 77' lang='lat' dir='ltr'><strong>Antiocheno</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 568 1282 647 1316; x_wconf 84' lang='lat' dir='ltr'><strong>res</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 701 1269 789 1318; x_wconf 80' lang='lat' dir='ltr'><strong>est.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 890 1267 1110 1325; x_wconf 78' lang='lat' dir='ltr'><strong>Quarum</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1162 1267 1300 1329; x_wconf 90' lang='lat' dir='ltr'>prior</span> <span class='ocrx_word' id='word_1_13' title='bbox 1353 1267 1417 1315; x_wconf 88' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1469 1267 1600 1316; x_wconf 81' lang='lat' dir='ltr'><strong>hunc</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1651 1267 1833 1330; x_wconf 86' lang='lat' dir='ltr'>ipsum,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 138 1341 1126 1404; baseline -0.001 -15"><span class='ocrx_word' id='word_1_16' title='bbox 138 1342 300 1390; x_wconf 77' lang='lat' dir='ltr'><strong>altera</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 338 1341 402 1390; x_wconf 84' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 441 1341 774 1390; x_wconf 81' lang='lat' dir='ltr'><strong>Theodosium</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 812 1342 1000 1404; x_wconf 79' lang='lat' dir='ltr'>scripta</span> <span class='ocrx_word' id='word_1_20' title='bbox 1039 1343 1126 1390; x_wconf 78' lang='lat' dir='ltr'><strong>est.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1442 76 3094">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1442 76 3094">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1442 76 3094; baseline 0 0"><span class='ocrx_word' id='word_1_21' title='bbox 0 1442 76 3094; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
